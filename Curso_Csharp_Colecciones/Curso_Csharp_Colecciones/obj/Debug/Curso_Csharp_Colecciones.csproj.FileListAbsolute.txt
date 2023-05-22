@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones\Curso_Csharp_Colecciones\bin\Debug\Curso_Csharp_Colecciones.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones\Curso_Csharp_Colecciones\bin\Debug\Curso_Csharp_Colecciones.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones\Curso_Csharp_Colecciones\bin\Debug\Curso_Csharp_Colecciones.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones\Curso_Csharp_Colecciones\obj\Debug\Curso_Csharp_Colecciones.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones\Curso_Csharp_Colecciones\obj\Debug\Curso_Csharp_Colecciones.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones\Curso_Csharp_Colecciones\obj\Debug\Curso_Csharp_Colecciones.pdb

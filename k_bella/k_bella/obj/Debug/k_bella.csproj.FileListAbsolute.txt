@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\k_bella\k_bella\bin\Debug\k_bella.exe.config
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\k_bella\k_bella\bin\Debug\k_bella.exe
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\k_bella\k_bella\bin\Debug\k_bella.pdb
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\k_bella\k_bella\obj\Debug\k_bella.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\k_bella\k_bella\obj\Debug\k_bella.exe
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\k_bella\k_bella\obj\Debug\k_bella.pdb

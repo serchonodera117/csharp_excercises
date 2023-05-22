@@ -1,0 +1,13 @@
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\bin\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.exe
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\bin\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.deps.json
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\bin\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.runtimeconfig.json
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\bin\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.runtimeconfig.dev.json
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\bin\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.dll
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\bin\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.dll
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_csharp_LINQ_2\Curso_csharp_LINQ_2\obj\Debug\netcoreapp3.1\Curso_csharp_LINQ_2.genruntimeconfig.cache

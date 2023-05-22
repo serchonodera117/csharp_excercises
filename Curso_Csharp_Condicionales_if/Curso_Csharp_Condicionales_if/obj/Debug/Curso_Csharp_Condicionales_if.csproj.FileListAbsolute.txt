@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Condicionales_if\Curso_Csharp_Condicionales_if\bin\Debug\Curso_Csharp_Condicionales_if.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Condicionales_if\Curso_Csharp_Condicionales_if\bin\Debug\Curso_Csharp_Condicionales_if.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Condicionales_if\Curso_Csharp_Condicionales_if\bin\Debug\Curso_Csharp_Condicionales_if.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Condicionales_if\Curso_Csharp_Condicionales_if\obj\Debug\Curso_Csharp_Condicionales_if.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Condicionales_if\Curso_Csharp_Condicionales_if\obj\Debug\Curso_Csharp_Condicionales_if.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Condicionales_if\Curso_Csharp_Condicionales_if\obj\Debug\Curso_Csharp_Condicionales_if.pdb

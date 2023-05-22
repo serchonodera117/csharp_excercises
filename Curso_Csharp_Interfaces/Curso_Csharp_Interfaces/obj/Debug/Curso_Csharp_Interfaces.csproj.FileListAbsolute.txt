@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces\Curso_Csharp_Interfaces\bin\Debug\Curso_Csharp_Interfaces.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces\Curso_Csharp_Interfaces\bin\Debug\Curso_Csharp_Interfaces.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces\Curso_Csharp_Interfaces\bin\Debug\Curso_Csharp_Interfaces.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces\Curso_Csharp_Interfaces\obj\Debug\Curso_Csharp_Interfaces.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces\Curso_Csharp_Interfaces\obj\Debug\Curso_Csharp_Interfaces.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces\Curso_Csharp_Interfaces\obj\Debug\Curso_Csharp_Interfaces.pdb

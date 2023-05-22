@@ -1,0 +1,15 @@
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\bin\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.exe.config
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\bin\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.exe
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\bin\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\App.g.cs
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL_MarkupCompile.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL_MarkupCompile.lref
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\MainWindow.baml
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.g.resources
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.exe
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_CRUD_LINQ_Y_SQL\Curso_Csharp_CRUD_LINQ_Y_SQL\obj\Debug\Curso_Csharp_CRUD_LINQ_Y_SQL.pdb

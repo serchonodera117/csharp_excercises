@@ -1,0 +1,12 @@
+﻿<Window x:Class="Curso_Csharp_CRUD_LINQ_Y_SQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Curso_Csharp_CRUD_LINQ_Y_SQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid  Name ="Principal" HorizontalAlignment="Center" Width="780" Height="400" Margin="10"></DataGrid>
+    </Grid>
+</Window>

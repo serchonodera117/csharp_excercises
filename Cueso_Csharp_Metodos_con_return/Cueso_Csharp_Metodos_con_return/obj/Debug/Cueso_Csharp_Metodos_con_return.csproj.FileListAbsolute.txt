@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Cueso_Csharp_Metodos_con_return\Cueso_Csharp_Metodos_con_return\bin\Debug\Cueso_Csharp_Metodos_con_return.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Cueso_Csharp_Metodos_con_return\Cueso_Csharp_Metodos_con_return\bin\Debug\Cueso_Csharp_Metodos_con_return.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Cueso_Csharp_Metodos_con_return\Cueso_Csharp_Metodos_con_return\bin\Debug\Cueso_Csharp_Metodos_con_return.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Cueso_Csharp_Metodos_con_return\Cueso_Csharp_Metodos_con_return\obj\Debug\Cueso_Csharp_Metodos_con_return.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Cueso_Csharp_Metodos_con_return\Cueso_Csharp_Metodos_con_return\obj\Debug\Cueso_Csharp_Metodos_con_return.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Cueso_Csharp_Metodos_con_return\Cueso_Csharp_Metodos_con_return\obj\Debug\Cueso_Csharp_Metodos_con_return.pdb

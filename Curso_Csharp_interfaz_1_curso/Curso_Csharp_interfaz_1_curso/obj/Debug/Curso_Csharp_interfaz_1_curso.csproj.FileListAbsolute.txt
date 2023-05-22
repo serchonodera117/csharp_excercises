@@ -1,0 +1,14 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\bin\Debug\Curso_Csharp_interfaz_1_curso.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\bin\Debug\Curso_Csharp_interfaz_1_curso.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\bin\Debug\Curso_Csharp_interfaz_1_curso.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_interfaz_1_curso\Curso_Csharp_interfaz_1_curso\obj\Debug\Curso_Csharp_interfaz_1_curso.pdb

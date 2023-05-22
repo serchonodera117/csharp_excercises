@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_combersion_de_datos_no_compatibles", "Csharp_combersion_de_datos_no_compatibles\Csharp_combersion_de_datos_no_compatibles.csproj", "{2F081F6E-1B74-4C44-8FF0-A0ECBA08305D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F081F6E-1B74-4C44-8FF0-A0ECBA08305D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F081F6E-1B74-4C44-8FF0-A0ECBA08305D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F081F6E-1B74-4C44-8FF0-A0ECBA08305D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F081F6E-1B74-4C44-8FF0-A0ECBA08305D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1865CD46-1807-4719-8C6B-151DE98C7BD1}
+	EndGlobalSection
+EndGlobal

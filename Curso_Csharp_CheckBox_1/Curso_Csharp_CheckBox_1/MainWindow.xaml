@@ -1,0 +1,49 @@
+﻿<Window x:Class="Curso_Csharp_CheckBox_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Curso_Csharp_CheckBox_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <ComboBox Name="CiudadesCapitales">
+
+                <ComboBox.ItemTemplate> 
+                    <DataTemplate >
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding nombreCiudad}" FontSize="17"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+                
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="50">
+
+            <Label FontSize="17" FontWeight="Heavy"> capitales</Label>
+            
+            <CheckBox Name="TodasC" IsThreeState="True" FontSize="15" Checked="TodasC_Checked" Unchecked="TodasC_Unchecked">Capitales</CheckBox>
+            <StackPanel Margin="15 ">
+
+                <CheckBox Name="Washington" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked"> Washington</CheckBox>
+                <CheckBox Name="Moscu" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Moscú</CheckBox>
+                <CheckBox Name="Pekin" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Pekin</CheckBox>
+                <CheckBox Name="Berlin" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Berlin</CheckBox>
+                <CheckBox Name="Londres" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Londres</CheckBox>
+                <CheckBox Name="Paris" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Paris</CheckBox>
+                <CheckBox Name="PyongYang" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Pyong Yang</CheckBox>
+                <CheckBox Name="Tokyo" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Tokyo</CheckBox>
+                <CheckBox Name="Seul" FontSize="14" Checked="Individual_Checked" Unchecked="individual_Unchecked">Seul</CheckBox>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

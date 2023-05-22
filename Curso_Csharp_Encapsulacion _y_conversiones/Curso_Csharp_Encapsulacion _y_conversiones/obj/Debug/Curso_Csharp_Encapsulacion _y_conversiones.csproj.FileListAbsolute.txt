@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Encapsulacion _y_conversiones\Curso_Csharp_Encapsulacion _y_conversiones\bin\Debug\Curso_Csharp_Encapsulacion _y_conversiones.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Encapsulacion _y_conversiones\Curso_Csharp_Encapsulacion _y_conversiones\bin\Debug\Curso_Csharp_Encapsulacion _y_conversiones.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Encapsulacion _y_conversiones\Curso_Csharp_Encapsulacion _y_conversiones\bin\Debug\Curso_Csharp_Encapsulacion _y_conversiones.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Encapsulacion _y_conversiones\Curso_Csharp_Encapsulacion _y_conversiones\obj\Debug\Curso_Csharp_Encapsulacion _y_conversiones.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Encapsulacion _y_conversiones\Curso_Csharp_Encapsulacion _y_conversiones\obj\Debug\Curso_Csharp_Encapsulacion _y_conversiones.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Encapsulacion _y_conversiones\Curso_Csharp_Encapsulacion _y_conversiones\obj\Debug\Curso_Csharp_Encapsulacion _y_conversiones.pdb

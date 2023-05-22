@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Llamadas_y_Clase_Math\Curso_Csharp_Llamadas_y_Clase_Math\bin\Debug\Curso_Csharp_Llamadas_y_Clase_Math.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Llamadas_y_Clase_Math\Curso_Csharp_Llamadas_y_Clase_Math\bin\Debug\Curso_Csharp_Llamadas_y_Clase_Math.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Llamadas_y_Clase_Math\Curso_Csharp_Llamadas_y_Clase_Math\bin\Debug\Curso_Csharp_Llamadas_y_Clase_Math.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Llamadas_y_Clase_Math\Curso_Csharp_Llamadas_y_Clase_Math\obj\Debug\Curso_Csharp_Llamadas_y_Clase_Math.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Llamadas_y_Clase_Math\Curso_Csharp_Llamadas_y_Clase_Math\obj\Debug\Curso_Csharp_Llamadas_y_Clase_Math.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Llamadas_y_Clase_Math\Curso_Csharp_Llamadas_y_Clase_Math\obj\Debug\Curso_Csharp_Llamadas_y_Clase_Math.pdb

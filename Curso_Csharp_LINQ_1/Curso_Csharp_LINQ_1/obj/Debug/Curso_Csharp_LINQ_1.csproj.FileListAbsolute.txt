@@ -1,0 +1,13 @@
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\bin\Debug\Curso_Csharp_LINQ_1.exe.config
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\bin\Debug\Curso_Csharp_LINQ_1.exe
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\bin\Debug\Curso_Csharp_LINQ_1.pdb
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.exe
+C:\Users\sergio garcia michel\Documents\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\bin\Debug\Curso_Csharp_LINQ_1.exe.config
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\bin\Debug\Curso_Csharp_LINQ_1.exe
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\bin\Debug\Curso_Csharp_LINQ_1.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.exe
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_1\Curso_Csharp_LINQ_1\obj\Debug\Curso_Csharp_LINQ_1.pdb

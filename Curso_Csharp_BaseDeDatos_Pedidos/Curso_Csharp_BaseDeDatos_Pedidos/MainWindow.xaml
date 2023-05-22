@@ -1,0 +1,27 @@
+﻿<Window x:Class="Curso_Csharp_BaseDeDatos_Pedidos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Curso_Csharp_BaseDeDatos_Pedidos"
+        mc:Ignorable="d"
+        Title="Mi primer base de datos uwu" Height="450" Width="800"
+        Activated="Window_Activated">
+    <Grid>
+        <Label Content="Clientes" HorizontalAlignment="Left" Margin="88,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Fechas de Pedidos" HorizontalAlignment="Left" Margin="281,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Lista de pedidos" HorizontalAlignment="Right" Margin="0,10,112,372" FontSize="20"></Label>
+
+        <ListBox Name="listaClientes" MouseDoubleClick="listaClientes_MouseDoubleClick" HorizontalAlignment="Left" Height="218" Margin="44,71,0,0" VerticalAlignment="Top" Width="165"/>
+        <ListBox Name="pedidosCliente"  HorizontalAlignment="Left" Height="218" Margin="271,71,0,0" VerticalAlignment="Top" Width="194" RenderTransformOrigin="0.5,0.5"></ListBox>
+        <ListBox Name="todosPedidos"  HorizontalAlignment="Left" Height="179" Margin="498,71,0,0" VerticalAlignment="Top" Width="221" ></ListBox>
+
+        <Button   Background="DarkRed" Foreground="White" FontSize="20" Content="Borrar Pedido" Click="Button_Click" HorizontalAlignment="Left" Margin="498,259,0,0" VerticalAlignment="Top" Width="221" Height="42"/>
+        <Button FontSize="15" Content="Insertar" HorizontalAlignment="Left" Margin="29,302,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Click="Button_Click_2"  FontSize="15" Content="Borrar cliente" Foreground="White" Background="DarkRed" HorizontalAlignment="Left" Margin="121,302,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button Content="Editar Nombre" HorizontalAlignment="Left" Margin="88,46,0,0" VerticalAlignment="Top" Width="93" RenderTransformOrigin="0.053,1.45" Click="Button_Click_3"/>
+
+        <TextBox Name="insertaCliente" Mouse.MouseLeave="insertaCliente_MouseLeave" Mouse.MouseEnter="insertaCliente_MouseEnter" HorizontalAlignment="Left" Height="31" Margin="44,344,0,0" TextWrapping="Wrap" FontSize="20" VerticalAlignment="Top" Width="165" Foreground="Gray" Text="Cliente"/>
+       
+    </Grid>
+</Window>

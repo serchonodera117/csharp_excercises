@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Getters_y_Seters\Curso_Csharp_Getters_y_Seters\bin\Debug\Curso_Csharp_Getters_y_Seters.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Getters_y_Seters\Curso_Csharp_Getters_y_Seters\bin\Debug\Curso_Csharp_Getters_y_Seters.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Getters_y_Seters\Curso_Csharp_Getters_y_Seters\bin\Debug\Curso_Csharp_Getters_y_Seters.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Getters_y_Seters\Curso_Csharp_Getters_y_Seters\obj\Debug\Curso_Csharp_Getters_y_Seters.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Getters_y_Seters\Curso_Csharp_Getters_y_Seters\obj\Debug\Curso_Csharp_Getters_y_Seters.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Getters_y_Seters\Curso_Csharp_Getters_y_Seters\obj\Debug\Curso_Csharp_Getters_y_Seters.pdb

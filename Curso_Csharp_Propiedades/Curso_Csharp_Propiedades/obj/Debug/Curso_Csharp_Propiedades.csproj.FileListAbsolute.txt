@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Propiedades\Curso_Csharp_Propiedades\bin\Debug\Curso_Csharp_Propiedades.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Propiedades\Curso_Csharp_Propiedades\bin\Debug\Curso_Csharp_Propiedades.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Propiedades\Curso_Csharp_Propiedades\bin\Debug\Curso_Csharp_Propiedades.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Propiedades\Curso_Csharp_Propiedades\obj\Debug\Curso_Csharp_Propiedades.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Propiedades\Curso_Csharp_Propiedades\obj\Debug\Curso_Csharp_Propiedades.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Propiedades\Curso_Csharp_Propiedades\obj\Debug\Curso_Csharp_Propiedades.pdb

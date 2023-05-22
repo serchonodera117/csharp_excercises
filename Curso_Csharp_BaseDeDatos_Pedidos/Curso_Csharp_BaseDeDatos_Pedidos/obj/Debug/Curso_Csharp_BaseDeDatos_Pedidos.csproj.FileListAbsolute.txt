@@ -1,0 +1,16 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\bin\Debug\Curso_Csharp_BaseDeDatos_Pedidos.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\bin\Debug\Curso_Csharp_BaseDeDatos_Pedidos.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\bin\Debug\Curso_Csharp_BaseDeDatos_Pedidos.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Curso_Csharp_BaseDeDatos_Pedidos.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Edición.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_BaseDeDatos_Pedidos\Curso_Csharp_BaseDeDatos_Pedidos\obj\Debug\Edición.baml

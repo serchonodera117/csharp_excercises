@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Herencia\Curso_Csharp_Herencia\bin\Debug\Curso_Csharp_Herencia.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Herencia\Curso_Csharp_Herencia\bin\Debug\Curso_Csharp_Herencia.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Herencia\Curso_Csharp_Herencia\bin\Debug\Curso_Csharp_Herencia.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Herencia\Curso_Csharp_Herencia\obj\Debug\Curso_Csharp_Herencia.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Herencia\Curso_Csharp_Herencia\obj\Debug\Curso_Csharp_Herencia.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Herencia\Curso_Csharp_Herencia\obj\Debug\Curso_Csharp_Herencia.pdb

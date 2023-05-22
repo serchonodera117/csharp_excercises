@@ -1,0 +1,14 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\bin\Debug\Curso_Csharp_ListBox_1.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\bin\Debug\Curso_Csharp_ListBox_1.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\bin\Debug\Curso_Csharp_ListBox_1.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ListBox_1\Curso_Csharp_ListBox_1\obj\Debug\Curso_Csharp_ListBox_1.pdb

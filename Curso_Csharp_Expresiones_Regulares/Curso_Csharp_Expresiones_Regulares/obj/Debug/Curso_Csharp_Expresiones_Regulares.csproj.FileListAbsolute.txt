@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Expresiones_Regulares\Curso_Csharp_Expresiones_Regulares\bin\Debug\Curso_Csharp_Expresiones_Regulares.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Expresiones_Regulares\Curso_Csharp_Expresiones_Regulares\bin\Debug\Curso_Csharp_Expresiones_Regulares.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Expresiones_Regulares\Curso_Csharp_Expresiones_Regulares\bin\Debug\Curso_Csharp_Expresiones_Regulares.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Expresiones_Regulares\Curso_Csharp_Expresiones_Regulares\obj\Debug\Curso_Csharp_Expresiones_Regulares.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Expresiones_Regulares\Curso_Csharp_Expresiones_Regulares\obj\Debug\Curso_Csharp_Expresiones_Regulares.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Expresiones_Regulares\Curso_Csharp_Expresiones_Regulares\obj\Debug\Curso_Csharp_Expresiones_Regulares.pdb

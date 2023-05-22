@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Metodos\Curso_Csharp_Metodos\bin\Debug\Curso_Csharp_Metodos.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Metodos\Curso_Csharp_Metodos\bin\Debug\Curso_Csharp_Metodos.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Metodos\Curso_Csharp_Metodos\bin\Debug\Curso_Csharp_Metodos.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Metodos\Curso_Csharp_Metodos\obj\Debug\Curso_Csharp_Metodos.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Metodos\Curso_Csharp_Metodos\obj\Debug\Curso_Csharp_Metodos.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Metodos\Curso_Csharp_Metodos\obj\Debug\Curso_Csharp_Metodos.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Curso_Csharp_Data_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Curso_Csharp_Data_Binding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+                                                                        <!-- llamada del slider -->
+        <TextBox Width="360" Name="CajaTexto" Margin="160" Text="{Binding ElementName=MySlider, Path=Value,Mode=TwoWay}"></TextBox>
+                                                           <!--Para hacer el enlace de datos se utiliza la palara Bilding
+                                                               ElementName=(Nombre que se le dio)  (funciona de forma parecida
+                                nombre                         doom de js) -->
+        <Slider Width="600"  Name="MySlider"  Minimum="0" Maximum="100"></Slider>
+        
+    </StackPanel>
+</Window>

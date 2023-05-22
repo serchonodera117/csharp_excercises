@@ -1,0 +1,14 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\bin\Debug\Curso_Csharp_RadioButtom.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\bin\Debug\Curso_Csharp_RadioButtom.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\bin\Debug\Curso_Csharp_RadioButtom.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_RadioButtom\Curso_Csharp_RadioButtom\obj\Debug\Curso_Csharp_RadioButtom.pdb

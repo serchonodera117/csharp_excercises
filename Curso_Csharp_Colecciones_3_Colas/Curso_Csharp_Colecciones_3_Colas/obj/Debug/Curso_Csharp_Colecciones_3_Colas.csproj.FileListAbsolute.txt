@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones_3_Colas\Curso_Csharp_Colecciones_3_Colas\bin\Debug\Curso_Csharp_Colecciones_3_Colas.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones_3_Colas\Curso_Csharp_Colecciones_3_Colas\bin\Debug\Curso_Csharp_Colecciones_3_Colas.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones_3_Colas\Curso_Csharp_Colecciones_3_Colas\bin\Debug\Curso_Csharp_Colecciones_3_Colas.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones_3_Colas\Curso_Csharp_Colecciones_3_Colas\obj\Debug\Curso_Csharp_Colecciones_3_Colas.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones_3_Colas\Curso_Csharp_Colecciones_3_Colas\obj\Debug\Curso_Csharp_Colecciones_3_Colas.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Colecciones_3_Colas\Curso_Csharp_Colecciones_3_Colas\obj\Debug\Curso_Csharp_Colecciones_3_Colas.pdb

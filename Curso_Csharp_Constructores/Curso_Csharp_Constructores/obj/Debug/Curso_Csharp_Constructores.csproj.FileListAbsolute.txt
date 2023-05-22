@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Constructores\Curso_Csharp_Constructores\bin\Debug\Curso_Csharp_Constructores.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Constructores\Curso_Csharp_Constructores\bin\Debug\Curso_Csharp_Constructores.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Constructores\Curso_Csharp_Constructores\bin\Debug\Curso_Csharp_Constructores.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Constructores\Curso_Csharp_Constructores\obj\Debug\Curso_Csharp_Constructores.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Constructores\Curso_Csharp_Constructores\obj\Debug\Curso_Csharp_Constructores.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Constructores\Curso_Csharp_Constructores\obj\Debug\Curso_Csharp_Constructores.pdb

@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Excepciones\Curso_Csharp_Excepciones\bin\Debug\Curso_Csharp_Excepciones.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Excepciones\Curso_Csharp_Excepciones\bin\Debug\Curso_Csharp_Excepciones.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Excepciones\Curso_Csharp_Excepciones\bin\Debug\Curso_Csharp_Excepciones.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Excepciones\Curso_Csharp_Excepciones\obj\Debug\Curso_Csharp_Excepciones.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Excepciones\Curso_Csharp_Excepciones\obj\Debug\Curso_Csharp_Excepciones.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Excepciones\Curso_Csharp_Excepciones\obj\Debug\Curso_Csharp_Excepciones.pdb

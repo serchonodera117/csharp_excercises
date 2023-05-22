@@ -1,0 +1,12 @@
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\bin\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.exe
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\bin\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.deps.json
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\bin\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.runtimeconfig.json
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\bin\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.runtimeconfig.dev.json
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\bin\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.dll
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\bin\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\obj\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\obj\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\obj\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\obj\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.dll
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\obj\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.pdb
+C:\Users\sergi\OneDrive\Documentos\LENGUAJES DE PROGRAMACIÓN\C#\C#_CURSO\Curso_Csharp_LINQ_3\Curso_Csharp_LINQ_3\obj\Debug\netcoreapp3.1\Curso_Csharp_LINQ_3.genruntimeconfig.cache

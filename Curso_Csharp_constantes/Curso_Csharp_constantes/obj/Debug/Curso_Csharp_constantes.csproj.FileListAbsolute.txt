@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_constantes\Curso_Csharp_constantes\bin\Debug\Curso_Csharp_constantes.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_constantes\Curso_Csharp_constantes\bin\Debug\Curso_Csharp_constantes.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_constantes\Curso_Csharp_constantes\bin\Debug\Curso_Csharp_constantes.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_constantes\Curso_Csharp_constantes\obj\Debug\Curso_Csharp_constantes.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_constantes\Curso_Csharp_constantes\obj\Debug\Curso_Csharp_constantes.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_constantes\Curso_Csharp_constantes\obj\Debug\Curso_Csharp_constantes.pdb

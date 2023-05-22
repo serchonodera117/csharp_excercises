@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Sructs\Curso_Csharp_Sructs\bin\Debug\Curso_Csharp_Sructs.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Sructs\Curso_Csharp_Sructs\bin\Debug\Curso_Csharp_Sructs.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Sructs\Curso_Csharp_Sructs\bin\Debug\Curso_Csharp_Sructs.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Sructs\Curso_Csharp_Sructs\obj\Debug\Curso_Csharp_Sructs.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Sructs\Curso_Csharp_Sructs\obj\Debug\Curso_Csharp_Sructs.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Sructs\Curso_Csharp_Sructs\obj\Debug\Curso_Csharp_Sructs.pdb

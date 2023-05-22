@@ -1,0 +1,64 @@
+﻿<Window x:Class="Curso_Csharp_Interfaces_Graficas_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Curso_Csharp_Interfaces_Graficas_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Button Grid.Column="0" Grid.Row="0" Height="30" Width="110" FontSize="20">Boton 1</Button>
+        <Button Grid.Column="1" Grid.Row="0" Height="30" Width="110" FontSize="20">Boton 2</Button>
+        <Button Grid.Column="2" Grid.Row="0" Height="30" Width="110" FontSize="20">Boton 3</Button>
+        <Button Grid.Column="3" Grid.Row="0" Height="30" Width="110" FontSize="20">Boton 4</Button>
+
+        <Button Grid.Column="0" Grid.Row="1" Height="30" Width="110" FontSize="20">Boton 5</Button>
+        <Button Grid.Column="1" Grid.Row="1" Height="30" Width="110" FontSize="20">Boton 6</Button>
+        <Button Grid.Column="2" Grid.Row="1" Height="30" Width="110" FontSize="20">Boton 7</Button>
+        <Button Grid.Column="3" Grid.Row="1" Height="30" Width="110" FontSize="20">Boton 8</Button>
+
+        <Button Grid.Column="0" Grid.Row="2" Height="30" Width="110" FontSize="20">Boton 9</Button>
+        <Button Grid.Column="1" Grid.Row="2" Height="30" Width="110" FontSize="20">Boton 10</Button>
+        <Button Grid.Column="2" Grid.Row="2" Height="30" Width="110" FontSize="20">Boton 11</Button>
+        <Button Grid.Column="3" Grid.Row="2" Height="30" Width="110" FontSize="20">Boton 12</Button>
+
+        <!--<TextBlock Grid.ColumnSpan="4" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25">Gero Gero </TextBlock>-->
+        <Grid Grid.Column="0" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Grid.Row="0" FontSize="10">Boton 1b</Button>
+            <Button Grid.Column="1" Grid.Row="0" FontSize="10">Boton 2b</Button>
+            <Button Grid.Column="2" Grid.Row="0" FontSize="10">Boton 3b</Button>
+            <Button Grid.Column="3" Grid.Row="0" FontSize="10">Boton 4b</Button>
+        </Grid>
+
+        <TextBox   Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="150" FontSize="20"  Cursor="IBeam" />
+
+        <TextBox   Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="150" FontSize="20" Text="Escribir..." Opacity="0.5" Cursor="IBeam" />
+
+    </Grid>
+</Window>

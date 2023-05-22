@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Genericos\Curso_Csharp_Genericos\bin\Debug\Curso_Csharp_Genericos.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Genericos\Curso_Csharp_Genericos\bin\Debug\Curso_Csharp_Genericos.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Genericos\Curso_Csharp_Genericos\bin\Debug\Curso_Csharp_Genericos.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Genericos\Curso_Csharp_Genericos\obj\Debug\Curso_Csharp_Genericos.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Genericos\Curso_Csharp_Genericos\obj\Debug\Curso_Csharp_Genericos.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Genericos\Curso_Csharp_Genericos\obj\Debug\Curso_Csharp_Genericos.pdb

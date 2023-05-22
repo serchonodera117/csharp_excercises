@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch\bin\Debug\Curso_Csharp_condicionales_switch.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch\bin\Debug\Curso_Csharp_condicionales_switch.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch\bin\Debug\Curso_Csharp_condicionales_switch.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch\obj\Debug\Curso_Csharp_condicionales_switch.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch\obj\Debug\Curso_Csharp_condicionales_switch.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch\obj\Debug\Curso_Csharp_condicionales_switch.pdb

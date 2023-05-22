@@ -1,0 +1,14 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\bin\Debug\Curso_Csharp_ INotifyPropertyChanged.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\bin\Debug\Curso_Csharp_ INotifyPropertyChanged.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\bin\Debug\Curso_Csharp_ INotifyPropertyChanged.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp__INotifyPropertyChanged.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_ INotifyPropertyChanged\Curso_Csharp_ INotifyPropertyChanged\obj\Debug\Curso_Csharp_ INotifyPropertyChanged.pdb

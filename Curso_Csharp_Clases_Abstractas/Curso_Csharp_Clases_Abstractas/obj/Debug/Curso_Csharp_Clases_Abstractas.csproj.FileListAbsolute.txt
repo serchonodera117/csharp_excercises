@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Clases_Abstractas\Curso_Csharp_Clases_Abstractas\bin\Debug\Curso_Csharp_Clases_Abstractas.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Clases_Abstractas\Curso_Csharp_Clases_Abstractas\bin\Debug\Curso_Csharp_Clases_Abstractas.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Clases_Abstractas\Curso_Csharp_Clases_Abstractas\bin\Debug\Curso_Csharp_Clases_Abstractas.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Clases_Abstractas\Curso_Csharp_Clases_Abstractas\obj\Debug\Curso_Csharp_Clases_Abstractas.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Clases_Abstractas\Curso_Csharp_Clases_Abstractas\obj\Debug\Curso_Csharp_Clases_Abstractas.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Clases_Abstractas\Curso_Csharp_Clases_Abstractas\obj\Debug\Curso_Csharp_Clases_Abstractas.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso_Csharp_condicionales_switch", "Curso_Csharp_condicionales_switch\Curso_Csharp_condicionales_switch.csproj", "{BF83A980-0011-4654-83C3-4BAA52AD0771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF83A980-0011-4654-83C3-4BAA52AD0771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF83A980-0011-4654-83C3-4BAA52AD0771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF83A980-0011-4654-83C3-4BAA52AD0771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF83A980-0011-4654-83C3-4BAA52AD0771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AAED655-C216-4E2F-B233-3DAA67A52E01}
+	EndGlobalSection
+EndGlobal

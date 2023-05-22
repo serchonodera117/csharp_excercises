@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Cshap_Clases_e_Insancias\Curso_Cshap_Clases_e_Insancias\bin\Debug\Curso_Cshap_Clases_e_Insancias.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Cshap_Clases_e_Insancias\Curso_Cshap_Clases_e_Insancias\bin\Debug\Curso_Cshap_Clases_e_Insancias.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Cshap_Clases_e_Insancias\Curso_Cshap_Clases_e_Insancias\bin\Debug\Curso_Cshap_Clases_e_Insancias.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Cshap_Clases_e_Insancias\Curso_Cshap_Clases_e_Insancias\obj\Debug\Curso_Cshap_Clases_e_Insancias.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Cshap_Clases_e_Insancias\Curso_Cshap_Clases_e_Insancias\obj\Debug\Curso_Cshap_Clases_e_Insancias.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Cshap_Clases_e_Insancias\Curso_Cshap_Clases_e_Insancias\obj\Debug\Curso_Cshap_Clases_e_Insancias.pdb

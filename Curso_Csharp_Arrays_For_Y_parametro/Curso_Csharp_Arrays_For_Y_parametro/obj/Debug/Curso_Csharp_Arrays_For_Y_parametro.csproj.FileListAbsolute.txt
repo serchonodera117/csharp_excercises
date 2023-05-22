@@ -1,0 +1,6 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Arrays_For_Y_parametro\Curso_Csharp_Arrays_For_Y_parametro\bin\Debug\Curso_Csharp_Arrays_For_Y_parametro.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Arrays_For_Y_parametro\Curso_Csharp_Arrays_For_Y_parametro\bin\Debug\Curso_Csharp_Arrays_For_Y_parametro.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Arrays_For_Y_parametro\Curso_Csharp_Arrays_For_Y_parametro\bin\Debug\Curso_Csharp_Arrays_For_Y_parametro.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Arrays_For_Y_parametro\Curso_Csharp_Arrays_For_Y_parametro\obj\Debug\Curso_Csharp_Arrays_For_Y_parametro.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Arrays_For_Y_parametro\Curso_Csharp_Arrays_For_Y_parametro\obj\Debug\Curso_Csharp_Arrays_For_Y_parametro.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Arrays_For_Y_parametro\Curso_Csharp_Arrays_For_Y_parametro\obj\Debug\Curso_Csharp_Arrays_For_Y_parametro.pdb

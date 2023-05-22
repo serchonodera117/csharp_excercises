@@ -1,0 +1,64 @@
+﻿<Window x:Class="Curso_Csharp_RadioButtom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Curso_Csharp_RadioButtom"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="0" >
+            <TextBlock TextAlignment="Center" FontSize="45" Foreground="BlueViolet">Semáforo</TextBlock>
+            <RadioButton Name="AllAcrivation"  Click="AllAcrivation_Click" Margin="200,50,100,2" >
+                <TextBlock  FontSize="18"> Activar Todos </TextBlock>
+            </RadioButton>
+            <RadioButton Name="Alldesactivation"  Click="Alldesactivation_Click" Margin="450,50,100,2">
+                <TextBlock  FontSize="18" Height="28"> Desctivar Todos</TextBlock>
+            </RadioButton>
+        </Grid>
+        
+        
+        <StackPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Row="1" Grid.Column="0">
+
+                    <RadioButton Margin="50,25,50,75" Click="RadioButton_Click">
+                        <TextBlock FontSize="20" >Rojo</TextBlock>
+                    </RadioButton>
+
+                    <RadioButton Margin="50,25,50,75" Click="RadioButton_Click_1">
+                        <TextBlock FontSize="20" >Amarillo </TextBlock>
+                    </RadioButton>
+
+                    <RadioButton Margin="50,25,100,30" Click="RadioButton_Click_2">
+                        <TextBlock FontSize="20" >Verde</TextBlock>
+                    </RadioButton>
+
+                </StackPanel>
+
+                <Grid Grid.Column="1">
+                    <Image Source="C:\Users\sergio garcia michel\Pictures\cemaforo_encendido.jpg"></Image>
+                    <Ellipse Name="Rojo"  Height="66.5" Width="66.5" Fill="Red" Margin="151,38,179,230" Visibility="Hidden"></Ellipse>
+                    <Ellipse Name="Amarillo" Height="66.5" Width="66.5" Fill="Yellow" Margin="151,110,179,140" Visibility="Hidden"></Ellipse>
+                    <Ellipse Name="verde" Height="66.5" Width="66.5" Fill="Green" Margin="151,199,179,69" Visibility="Hidden"></Ellipse>
+                </Grid>
+                
+            </Grid>
+        </StackPanel>
+
+        
+
+        
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\bin\Debug\Curso_Csharp_Interfaces_Graficas_2.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\bin\Debug\Curso_Csharp_Interfaces_Graficas_2.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\bin\Debug\Curso_Csharp_Interfaces_Graficas_2.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso_Csharp_Interfaces_Graficas_2\Curso_Csharp_Interfaces_Graficas_2\obj\Debug\Curso_Csharp_Interfaces_Graficas_2.pdb

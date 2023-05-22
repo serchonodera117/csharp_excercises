@@ -1,0 +1,14 @@
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\bin\Debug\Curso _Csharp_Dependency_Properties.exe.config
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\bin\Debug\Curso _Csharp_Dependency_Properties.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\bin\Debug\Curso _Csharp_Dependency_Properties.pdb
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties.csprojAssemblyReference.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\MainWindow.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\App.g.cs
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties_MarkupCompile.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties_MarkupCompile.lref
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\MainWindow.baml
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties.g.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso__Csharp_Dependency_Properties.Properties.Resources.resources
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties.csproj.GenerateResource.cache
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties.exe
+C:\Users\sergio garcia michel\Documents\C#_CURSO\Curso _Csharp_Dependency_Properties\Curso _Csharp_Dependency_Properties\obj\Debug\Curso _Csharp_Dependency_Properties.pdb
